@@ -5,11 +5,22 @@ My very hastily made submission for the i
 
 It's really not worth looking at again. 
 
+## Controls ##
+
+As specified in the BDayBash rules, the controls are simply:
+* LEFT and RIGHT arrow key
+* Space bar
+
+## Objective ##
+
+Blow out all the candles within 5 seconds.
+
 ## What I Would Do Next ##
 
 1. Nicer Art
 2. A background
 3. Display when the player has lost
+4. Add some instructions to the index page
 
 ## (Un)License ##
 
